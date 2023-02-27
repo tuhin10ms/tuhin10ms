@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Rejaul Karim
-- 👀 I’m interested in working in Mobile Application development
-- 🌱 I’m currently learning Kotlin for Android development
+- 👀 I’m interested in learning working in Mobile Application development
+- 🌱 I’m currently working on Kotlin for Native Android Application development
 - 💞️ I’m looking to collaborate on working in innovative projects
 - 📫 Reach me at 'rktuhinbd@gmail.com'
 
